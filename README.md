@@ -1,2 +1,16 @@
 # Niu
-Config files for my GitHub profile.
+
+这是我的GitHub主页仓库，用于托管个人网站。
+
+## 部署
+
+此仓库使用GitHub Pages自动部署。推送更改到主分支后，网站将在几分钟内更新。
+
+## 本地预览
+
+要本地预览网站，请打开`index.html`文件在浏览器中。
+
+## 自定义
+
+- 编辑`index.html`来自定义主页内容。
+- 添加CSS和JS文件以增强样式和功能。
