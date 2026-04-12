@@ -1,36 +1,36 @@
 <!-- 
   ╔═══════════════════════════════════════════════════════════════╗
-  ║  ⚡ CYBERPUNK PROFILE README ⚡                               ║
-  ║  Designed with neon dreams and digital passion                ║
+  ║  ⚡ 赛博朋克风格个人主页 ⚡                                    ║
+  ║  用霓虹梦想和数字激情设计                                     ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
   
-  <!-- Neon Glow Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&section=header&text=NIU&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Digital%20Creator%20%7C%20Code%20Artist&descAlignY=55&descSize=20" />
+  <!-- 霓虹渐变横幅 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=200&section=header&text=NIU&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=数字创作者%20%7C%20代码艺术家&descAlignY=55&descSize=20" />
   
-  <!-- Glitch Effect Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=+%E2%95%94%E2%95%90%F0%9F%96%A5%EF%B8%8F+WELCOME+TO+MY+DIGITAL+REALM+%F0%9F%96%A5%EF%B8%8F%E2%95%90%E2%95%97;%E2%99%BE%EF%B8%8F+Building+the+future%2C+one+commit+at+a+time+%E2%99%BE%EF%B8%8F" />
+  <!-- 故障效果副标题 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=+%E2%95%94%E2%95%90%F0%9F%96%A5%EF%B8%8F+欢迎来到我的数字领域+%F0%9F%96%A5%EF%B8%8F%E2%95%90%E2%95%97;%E2%99%BE%EF%B8%8F+构建未来，每次提交都是一步+%E2%99%BE%EF%B8%8F" />
   
-  <!-- Cyberpunk Divider -->
+  <!-- 赛博朋克分隔线 -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
 
-<!-- Terminal Style Intro -->
+<!-- 终端风格介绍 -->
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   > SYSTEM INITIALIZING...                                      │
-│   > LOADING PROFILE DATA...                                     │
-│   > ACCESS GRANTED ✓                                            │
+│   > 系统初始化中...                                              │
+│   > 加载个人资料数据...                                          │
+│   > 访问权限已授予 ✓                                             │
 │                                                                 │
 │   ╔═════════════════════════════════════════════════════════╗   │
-│   ║  👾 IDENTITY: NIU                                        ║   │
-│   ║  📍 LOCATION: The Digital Frontier                       ║   │
-│   ║  💻 MISSION: Crafting Digital Experiences                ║   │
-│   ║  ⚡ STATUS: ONLINE & CREATING                            ║   │
+│   ║  👾 身份: NIU                                           ║   │
+│   ║  📍 位置: 数字前沿                                       ║   │
+│   ║  💻 使命: 打造数字体验                                    ║   │
+│   ║  ⚡ 状态: 在线并创作中                                    ║   │
 │   ╚═════════════════════════════════════════════════════════╝   │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
@@ -38,27 +38,27 @@
 
 <div align="center">
   
-  <!-- Animated Status Badges -->
+  <!-- 动态状态徽章 -->
   <a href="https://github.com/你的用户名">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge&logo=power&logoColor=white&labelColor=0D1117&color=00FFFF" />
+    <img src="https://img.shields.io/badge/状态-在线-00FFFF?style=for-the-badge&logo=power&logoColor=white&labelColor=0D1117&color=00FFFF" />
   </a>
   <a href="https://github.com/你的用户名?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-ACTIVE-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF00FF" />
+    <img src="https://img.shields.io/badge/项目-活跃-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF00FF" />
   </a>
   <a href="https://github.com/你的用户名">
-    <img src="https://img.shields.io/badge/MODE-CREATIVE-FFFF00?style=for-the-badge&logo=lightbulb&logoColor=black&labelColor=0D1117&color=FFFF00" />
+    <img src="https://img.shields.io/badge/模式-创意-FFFF00?style=for-the-badge&logo=lightbulb&logoColor=black&labelColor=0D1117&color=FFFF00" />
   </a>
   
 </div>
 
 <br>
 
-<!-- Tech Stack Section -->
+<!-- 技术栈部分 -->
 <div align="center">
   
-  ### ⚔️ TECH ARSENAL ⚔️
+  ### ⚔️ 技术装备库 ⚔️
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=400&lines=Loading+Tech+Stack..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=400&lines=加载技术栈中..." />
   
 </div>
 
@@ -66,7 +66,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🎨 FRONTEND SORCERY
+#### 🎨 前端魔法
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
@@ -81,7 +81,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### ⚙️ BACKEND ENGINE
+#### ⚙️ 后端引擎
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
@@ -98,7 +98,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🛠️ DEV TOOLS
+#### 🛠️ 开发工具
 <div align="center">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
@@ -111,7 +111,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### ☁️ CLOUD & INFRA
+#### ☁️ 云服务与基础架构
 <div align="center">
   
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)
@@ -127,10 +127,10 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
+<!-- GitHub 统计部分 -->
 <div align="center">
   
-  ### 📊 SYSTEM METRICS 📊
+  ### 📊 系统指标 📊
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600">
   
@@ -138,7 +138,7 @@
 
 <div align="center">
   <a href="https://github.com/你的用户名">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=NIU's%20STATS&border_color=FF00FF&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=NIU的统计&border_color=FF00FF&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&langs_count=8&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117"/>
   </a>
 </div>
@@ -151,21 +151,21 @@
 
 <br>
 
-<!-- Activity Graph -->
+<!-- 活动图 -->
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&custom_title=CONTRIBUTION%20ACTIVITY&title_color=00FFFF&bg_color=0D1117&line=FF00FF&point=00FFFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&custom_title=贡献活动&title_color=00FFFF&bg_color=0D1117&line=FF00FF&point=00FFFF&area=true&hide_border=true&theme=react-dark" width="100%"/>
   
 </div>
 
 <br>
 
-<!-- Featured Projects -->
+<!-- 精选项目 -->
 <div align="center">
   
-  ### 🚀 FEATURED PROJECTS 🚀
+  ### 🚀 精选项目 🚀
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&repeat=true&width=500&lines=Click+to+explore+my+creations..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&repeat=true&width=500&lines=点击探索我的创作..." />
   
 </div>
 
@@ -182,10 +182,10 @@
 
 <br>
 
-<!-- Trophy Section -->
+<!-- 成就部分 -->
 <div align="center">
   
-  ### 🏆 ACHIEVEMENTS 🏆
+  ### 🏆 成就 🏆
   
   <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
   
@@ -193,53 +193,53 @@
 
 <br>
 
-<!-- Quote Section -->
+<!-- 名言部分 -->
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="随机开发名言" />
   
 </div>
 
 <br>
 
-<!-- Social Links -->
+<!-- 社交链接 -->
 <div align="center">
   
-  ### 📡 CONNECT WITH ME 📡
+  ### 📡 联系我 📡
   
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-SEND%20MESSAGE-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/邮箱-发送消息-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://linkedin.com/in/你的用户名">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/领英-连接-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://twitter.com/你的用户名">
-    <img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/推特-关注-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://你的博客.com">
-    <img src="https://img.shields.io/badge/BLOG-VISIT-00FFFF?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/博客-访问-00FFFF?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117" />
   </a>
   
 </div>
 
 <br>
 
-<!-- Visitor Counter -->
+<!-- 访客计数器 -->
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&style=for-the-badge&color=FF00FF&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=你的用户名&style=for-the-badge&color=FF00FF&label=个人主页访问量" />
   
 </div>
 
 <br>
 
-<!-- Footer -->
+<!-- 页脚 -->
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <!-- Animated Footer -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+like+them!;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" />
+  <!-- 动态页脚 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=true&width=600&lines=感谢访问！⭐ 喜欢的话请给我的仓库点星！;让我们一起构建一些令人惊叹的东西！🚀;愉快的编码！💻" />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00FF&height=120&section=footer" />
   
@@ -247,6 +247,6 @@
 
 <!-- 
   ╔═══════════════════════════════════════════════════════════════╗
-  ║  ⚡ Thanks for visiting! Keep coding and stay awesome! ⚡      ║
+  ║  ⚡ 感谢访问！继续编码，保持出色！ ⚡                          ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
